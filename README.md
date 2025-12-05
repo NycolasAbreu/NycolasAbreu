@@ -1,17 +1,17 @@
 # Hi there, I'm Nycolas Abreu! 👋
 
 ## About Me
-I'm a curious and pragmatic C++ Software Developer with over 3 years of experience in software engineering for Windows, Linux, and embedded systems. I thrive in agile teams, always seeking new challenges and opportunities to grow in the field of software development.
+I'm a curious and pragmatic C++ Software Developer with over 4 years of experience in software engineering for Linux, Windows, and embedded systems. I thrive in agile teams, always seeking new challenges and opportunities to grow in the field of software development.
 
 🎓 Electronic Engineering graduate from IFSC
 
 🏡 Based in Florianópolis, Santa Catarina, Brazil
 
-💼 Currently working as an Software Engineer at Stone
+💼 Currently working as an Software Engineer III at Stone
 
 ## Technical Skills
 - Languages: C++ 17, Python, C
-- Frameworks & Libraries: Qt, Boost, OpenGL
+- Frameworks & Libraries: Qt, LvGL, Boost, OpenGL
 - Testing Tools: Gtest, Robot
 - Protocols: CAN, Sockets, TCP/IP
 - Version Control: Git, SVN
