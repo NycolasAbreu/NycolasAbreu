@@ -7,7 +7,7 @@ I'm a curious and pragmatic C++ Software Developer with over 4 years of experien
 
 🏡 Based in Florianópolis, Santa Catarina, Brazil
 
-💼 Currently working as an Software Engineer III at Stone
+💼 Currently working as an Senior Software Engineer at Stone
 
 ## Technical Skills
 - Languages: C++ 17, Python, C
